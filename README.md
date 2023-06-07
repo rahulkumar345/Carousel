@@ -1,1 +1,1 @@
-# Carousel Compenent using React-slick
+# Carousel Compenent 
